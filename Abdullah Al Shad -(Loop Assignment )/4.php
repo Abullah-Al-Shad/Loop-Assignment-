@@ -9,7 +9,7 @@ $x = 2;
 for ($y = 1; $y <= $x*10; $y++){
     if($y % $x == 0){
         $z = $y/$x;
-        echo "$x*$z=$y <br>";
+        echo "$x × $z = $y <br>";
     
     }
 }
@@ -24,7 +24,7 @@ $x = 3;
 for ($y = 1; $y <= $x*10; $y++){
     if($y % $x == 0){
         $z = $y/$x;
-        echo "$x*$z=$y <br>";
+        echo "$x × $z = $y <br>";
     
     }
 }
@@ -39,7 +39,7 @@ $x = 4;
 for ($y = 1; $y <= $x*10; $y++){
     if($y % $x == 0){
         $z = $y/$x;
-        echo "$x*$z=$y <br>";
+        echo "$x × $z = $y <br>";
     
     }
 }
@@ -54,7 +54,7 @@ $x = 5;
 for ($y = 1; $y <= $x*10; $y++){
     if($y % $x == 0){
         $z = $y/$x;
-        echo "$x*$z=$y <br>";
+        echo "$x × $z = $y <br>";
     
     }
 }
